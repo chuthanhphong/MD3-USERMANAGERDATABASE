@@ -1,0 +1,16 @@
+Model/User.java
+ Model.User
+dao/IUserDAO.java
+ dao.IUserDAO
+dao/UserDao.java
+ dao.UserDao
+UserServlet.java
+ UserServlet
+dao/IBlogDAO.java
+ dao.IBlogDAO
+Model/Blog.java
+ Model.Blog
+dao/BlogDAO.java
+ dao.BlogDAO
+Servlet2.java
+ Servlet2
